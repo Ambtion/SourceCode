@@ -1,0 +1,84 @@
+[submodule "AFNetworking"]
+	path = AFNetworking
+	url = git@github.com:AFNetworking/AFNetworking.git
+[submodule "Aspects"]
+	path = Aspects
+	url = git@github.com:steipete/Aspects.git
+[submodule "FBRetainCycleDetector"]
+	path = FBRetainCycleDetector
+	url = git@github.com:facebook/FBRetainCycleDetector.git
+[submodule "fishhook"]
+	path = fishhook
+	url = git@github.com:facebook/fishhook.git
+[submodule "HCClangTrace"]
+	path = HCClangTrace
+	url = git@github.com:jayhe/HCClangTrace.git
+[submodule "LKImageKit"]
+	path = LKImageKit
+	url = git@github.com:Tencent/LKImageKit.git
+[submodule "hpios"]
+	path = hpios
+	url = git@github.com:gvaish/hpios.git
+[submodule "MMKV"]
+	path = MMKV
+	url = git@github.com:Tencent/MMKV.git
+[submodule "SDWebImage"]
+	path = SDWebImage
+	url = git@github.com:SDWebImage/SDWebImage.git
+[submodule "plcrashreporter"]
+	path = plcrashreporter
+	url = git@github.com:microsoft/plcrashreporter.git
+[submodule "Masonry"]
+	path = Masonry
+	url = git@github.com:SnapKit/Masonry.git
+[submodule "FBMemoryProfiler"]
+	path = FBMemoryProfiler
+	url = git@github.com:facebookarchive/FBMemoryProfiler.git
+[submodule "chisel"]
+	path = chisel
+	url = git@github.com:facebook/chisel.git
+[submodule "Swift-ObjectiveC-Interoperability"]
+	path = Swift-ObjectiveC-Interoperability
+	url = git@github.com:ashislaha/Swift-ObjectiveC-Interoperability.git
+[submodule "lottie-ios"]
+	path = lottie-ios
+	url = git@github.com:airbnb/lottie-ios.git
+[submodule "RuntimeAnalyze"]
+	path = RuntimeAnalyze
+	url = git@github.com:DeveloperErenLiu/RuntimeAnalyze.git
+[submodule "SiriExtensionDemo"]
+	path = SiriExtensionDemo
+	url = git@github.com:ruzhuxiaogu/SiriExtensionDemo.git
+[submodule "YYKit"]
+	path = YYKit
+	url = git@github.com:ibireme/YYKit.git
+[submodule "CF"]
+	path = CF
+	url = git@github.com:opensource-apple/CF.git
+[submodule "dyld"]
+	path = dyld
+	url = git@github.com:opensource-apple/dyld.git
+[submodule "appleLibdispatch"]
+	path = appleLibdispatch
+	url = git@github.com:mlcldh/appleLibdispatch.git
+[submodule "objc-runtime-master"]
+	path = objc-runtime-master
+	url = git@github.com:KevinYangGit/objc-runtime-master.git
+[submodule "Siri/SiriExtensionDemo"]
+	path = Siri/SiriExtensionDemo
+	url = git@github.com:ruzhuxiaogu/SiriExtensionDemo.git
+[submodule "Apple/dyld"]
+	path = Apple/dyld
+	url = git@github.com:opensource-apple/dyld.git
+[submodule "Apple/appleLibdispatch"]
+	path = Apple/appleLibdispatch
+	url = git@github.com:mlcldh/appleLibdispatch.git
+[submodule "Apple/CF"]
+	path = Apple/CF
+	url = git@github.com:opensource-apple/CF.git
+[submodule "Apple/objc-runtime-master"]
+	path = Apple/objc-runtime-master
+	url = git@github.com:KevinYangGit/objc-runtime-master.git
+[submodule "Apple/RuntimeAnalyze"]
+	path = Apple/RuntimeAnalyze
+	url = git@github.com:DeveloperErenLiu/RuntimeAnalyze.git
