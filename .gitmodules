@@ -82,3 +82,15 @@
 [submodule "Apple/RuntimeAnalyze"]
 	path = Apple/RuntimeAnalyze
 	url = git@github.com:DeveloperErenLiu/RuntimeAnalyze.git
+[submodule "ReactiveCocoa"]
+	path = ReactiveCocoa
+	url = git@github.com:ReactiveCocoa/ReactiveCocoa.git
+[submodule "PromiseKit"]
+	path = PromiseKit
+	url = git@github.com:mxcl/PromiseKit.git
+[submodule "Apple/gnustep"]
+	path = Apple/gnustep
+	url = git@github.com:gnustep/libs-base.git
+[submodule "YTKNetwork"]
+	path = YTKNetwork
+	url = git@github.com:yuantiku/YTKNetwork.git
