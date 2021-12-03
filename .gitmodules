@@ -94,3 +94,6 @@
 [submodule "YTKNetwork"]
 	path = YTKNetwork
 	url = git@github.com:yuantiku/YTKNetwork.git
+[submodule "CoreML"]
+	path = CoreML
+	url = git@github.com:yangchenlarkin/CoreML.git
