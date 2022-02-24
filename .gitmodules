@@ -97,3 +97,30 @@
 [submodule "CoreML"]
 	path = CoreML
 	url = git@github.com:yangchenlarkin/CoreML.git
+[submodule "SAMKeychain"]
+	path = SAMKeychain
+	url = git@github.com:soffes/SAMKeychain.git
+[submodule "H5-"]
+	path = H5-
+	url = https://github.com/jswsjian/H5-.git
+[submodule "RNMixed"]
+	path = RNMixed
+	url = https://github.com/onMyWay520/RNMixed.git
+[submodule "CYLTabBarController"]
+	path = CYLTabBarController
+	url = git@github.com:ChenYilong/CYLTabBarController.git
+[submodule "CocoaAsyncSocket_Demo"]
+	path = CocoaAsyncSocket_Demo
+	url = git@github.com:coderMyy/CocoaAsyncSocket_Demo.git
+[submodule "MixedPod"]
+	path = MixedPod
+	url = git@github.com:icetime17/MixedPod.git
+[submodule "MixSwiftObjectiveC"]
+	path = MixSwiftObjectiveC
+	url = git@github.com:crarau/MixSwiftObjectiveC.git
+[submodule "CocoaAsyncSocket"]
+	path = CocoaAsyncSocket
+	url = git@github.com:robbiehanson/CocoaAsyncSocket.git
+[submodule "CocoaMQTT"]
+	path = CocoaMQTT
+	url = git@github.com:emqx/CocoaMQTT.git
